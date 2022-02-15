@@ -1,0 +1,17 @@
+{
+  "name": "automatizacion",
+  "version": "1.0.0",
+  "description": "aprendiendo a automatizar con cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "cypress:runDefault": "cypress run --spec cypress/integration/*.spec.js",
+    "cypress:runChrome": "cypress run --browser chrome --spec cypress/integration/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-mochawesome-reporter": "^2.3.0"
+  }
+}

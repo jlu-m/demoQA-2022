@@ -1,0 +1,18 @@
+[
+  {
+    "name": "test user",
+    "email": "test@blabla.com",
+    "address": {
+      "current": "C. Dobla, 5, 28054 Madrid, Spain",
+      "permanent": "Street X, 28013 Madrid, Spain"
+    }
+  },
+  {
+    "name": "John Smith",
+    "email": "john.smith@mailinator.com",
+    "address": {
+      "current": "Street Smith 3, London, UK",
+      "permanent": "Street Smith 6, London, UK"
+    }
+  }
+]

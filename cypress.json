@@ -1,0 +1,11 @@
+{
+  "projectId": "d5car2",
+  "baseUrl": "https://demoqa.com/",
+  "screenshotOnRunFailure": true,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/report",
+    "charts": true,
+    "reportPageTitle": "demoQA Text Form Report"
+  }
+}
